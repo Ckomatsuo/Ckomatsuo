@@ -5,6 +5,18 @@
 - 🛠  喜欢捣腾和开发[`效率工具`](https://www.google.co.jp/webhp?ei=LJc3WazrDanb0gKE9Lb4Dg&ved=0EKkuCAYoAQ)。
 - 📚  更热衷写重复率低的[`文章`](https://www.google.co.jp/webhp?ei=LJc3WazrDanb0gKE9Lb4Dg&ved=0EKkuCAYoAQ)。
 - 🔭  发掘生活、工作中的需求，用技术手段去实现，完成技术到价值的转化。
+- 🚀 I use daily:
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+- 💻 I work using:
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+
+[![Gmail Badge](https://img.shields.io/badge/-song52461043@163.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:song52461043@163.com)](mailto:liuhongzhi_006@163.com)
+[![Gmail Badge](https://img.shields.io/badge/-song52461043@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:song52461043@gmail.com)](mailto:henryliucv@gmail.com)
 
 #### 🔥 效率工具
 
@@ -24,4 +36,27 @@
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/120.png" height="180px"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckomatsuo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
-    
+
+
+
+
+
+
+
+
+<!--
+**Ckomatsuo/Ckomatsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
