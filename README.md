@@ -15,8 +15,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 
-[![Gmail Badge](https://img.shields.io/badge/-song52461043@163.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:song52461043@163.com)](mailto:liuhongzhi_006@163.com)
-[![Gmail Badge](https://img.shields.io/badge/-song52461043@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:song52461043@gmail.com)](mailto:henryliucv@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-song52461043@163.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:song52461043@163.com)](mailto:song52461043@163.com)
+[![Gmail Badge](https://img.shields.io/badge/-song52461043@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:song52461043@gmail.com)](mailto:song52461043@gmail.com)
 
 #### 🔥 效率工具
 
