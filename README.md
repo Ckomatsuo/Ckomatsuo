@@ -14,10 +14,7 @@
 - 💻 I work using:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-
-[![Gmail Badge](https://img.shields.io/badge/-song52461043@163.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:song52461043@163.com)](mailto:song52461043@163.com)
-[![Gmail Badge](https://img.shields.io/badge/-song52461043@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:song52461043@gmail.com)](mailto:song52461043@gmail.com)
-
+  
 #### 🔥 效率工具
 
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/119.png!/crop/630x600a0a30" height="180px"/>
