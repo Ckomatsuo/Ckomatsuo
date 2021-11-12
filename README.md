@@ -1,3 +1,4 @@
+![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo/count.svg)
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/118.png!/crop/630x600a0a0" height="180px"/>
 
 #### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/> Hi，我是Ckomatsuo
@@ -32,9 +33,7 @@
 
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/120.png" height="180px"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckomatsuo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckomatsuo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark" />
 
 
 
@@ -57,3 +56,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
