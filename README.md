@@ -35,7 +35,13 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckomatsuo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark" />
 
-
+<a href="https://hasherezade.net">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ckomatsuo&theme=dark" />
+</a>
+<br/>
+<a href="https://twitter.com/hasherezade">
+  <img src="https://img.shields.io/twitter/follow/Ckomatsuo?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+</a>
 
 
 
