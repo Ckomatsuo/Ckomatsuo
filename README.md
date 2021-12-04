@@ -27,9 +27,9 @@
 - 🔧  [`节点`](https://github.com/Ckomatsuo/nodes) nodes。
 - 🔍  [`代理`](https://github.com/Ckomatsuo/proxy) proxy。
 - 📦  [`Clash`](https://github.com/Ckomatsuo/komatsu) 「自用」。
+- ✨  [`资源`](https://github.com/Ckomatsuo/resources) Resources。
 - 📂  [`github-directory-downloader`](http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html) github 特定文件、文件夹下载工具。
 - 🎥️  [`m3u8-downloader`](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) m3u8 在线下载工具。
-- ✨  [`测试`](Test) Test。
 
 #### 🔰 统计卡牌
 
