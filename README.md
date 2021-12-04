@@ -1,4 +1,4 @@
-<img src="hello.gif" width="350px">![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo/count.svg)
+<img src="hello.gif" width="90px">![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo/count.svg)
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/118.png" height="180px"/>
 
 
@@ -13,6 +13,9 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Laravel](https://img.shields.io/badge/fw-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=59f4b2)
+  ![JavaScript](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=59f4b2)
+  ![PHP](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=59f4b2)  
 - 💻 I work using:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
