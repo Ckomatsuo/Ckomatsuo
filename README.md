@@ -1,4 +1,4 @@
-<img src="hello.gif" width="90px">![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo/count.svg)
+<img src="hello.gif" width="90px">![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo/count.svg)[![GitHub Ckomatsuo](https://img.shields.io/github/followers/Ckomatsuo?label=follow&style=social)](https://github.com/Ckomatsuo)
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/118.png" height="180px"/>
 
 
