@@ -1,6 +1,10 @@
 ![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo/count.svg)
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/118.png" height="180px"/>
 
+<p align="center">
+<br><img src="hello.gif" width="350px"><br><br>
+</p>
+
 #### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/> Hi，我是Ckomatsuo
 - 💡  「二八原则」践行者，「引导型」教育者。
 - 🛠  喜欢捣腾和开发[`效率工具`](https://www.google.co.jp/webhp?ei=LJc3WazrDanb0gKE9Lb4Dg&ved=0EKkuCAYoAQ)。
@@ -39,12 +43,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ckomatsuo&theme=dark" />
 </a>
 <br/>
+
+<hr />
+<b><h2 align="center">My Contacts💬:</h2></b>
+<center>
 <a href="https://twitter.com/Ckomatsuo">
   <img src="https://img.shields.io/twitter/follow/Ckomatsuo?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
+<a href="https://song52461043@gmail.com">
+  <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&&labelColor=1f1f1f&color=5fffaf" />
+</a>
+<a href="https://www.instagram.com/Ckomatsuo">
+  <img src="https://img.shields.io/badge/-@Ckomatsuo-black?style=for-the-badge&logo=instagram&&labelColor=1f1f1f" />
+</a>
+</center>
+  
 <!--隐藏代码的符号-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Ckomatsuo&theme=tokyonight&margion-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
-
 
 <!--
 **Ckomatsuo/Ckomatsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
