@@ -37,15 +37,18 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckomatsuo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark" />
 
+<!--
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/120.png" height="180px"/>
+-->
 
-<a href="https://ckomatsuo.github.io">
+ <a href="https://ckomatsuo.github.io">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ckomatsuo&theme=dark" />
 </a>
+  <a href="https://media3.giphy.com/media/3wqWPVpbGjSApVUPKr/giphy.gif"> <img alt="gif" align="mid" src="https://media3.giphy.com/media/3wqWPVpbGjSApVUPKr/giphy.gif" height="190px"/>
 <br/>
 
 <hr />
-<b><h2 align="center">My Contacts💬:</h2></b>
+<b><h2 align="center"> 📫 Contact we via 💬 </h2></b>
 <center>
 <a href="https://twitter.com/Ckomatsuo">
   <img src="https://img.shields.io/twitter/follow/Ckomatsuo?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
@@ -57,7 +60,10 @@
   <img src="https://img.shields.io/badge/-@Ckomatsuo-black?style=for-the-badge&logo=instagram&&labelColor=1f1f1f" />
 </a>
 </center>
-  
+
+
+
+ 
 <!--隐藏代码的符号-->
 
 <!--
