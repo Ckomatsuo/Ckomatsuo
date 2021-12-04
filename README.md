@@ -1,9 +1,6 @@
-![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo/count.svg)
+<img src="hello.gif" width="350px">![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo/count.svg)
 <img align="right" alt="Momo's GitHub stats" src="http://upyun.luckly-mjw.cn/Assets/github-profile/118.png" height="180px"/>
 
-<p align="center">
-<br><img src="hello.gif" width="350px"><br><br>
-</p>
 
 #### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/> Hi，我是Ckomatsuo
 - 💡  「二八原则」践行者，「引导型」教育者。
@@ -29,7 +26,7 @@
 - 📦  [`Clash`](https://github.com/Ckomatsuo/komatsu) 「自用」。
 - 📂  [`github-directory-downloader`](http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html) github 特定文件、文件夹下载工具。
 - 🎥️  [`m3u8-downloader`](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) m3u8 在线下载工具。
-- 📽  [`test6`](test6) test6。
+- ✨  [`测试`](Test) Test。
 
 #### 🔰 统计卡牌
 
@@ -59,7 +56,16 @@
 </center>
   
 <!--隐藏代码的符号-->
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Ckomatsuo&theme=tokyonight&margion-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ckomatsuo&theme=tokyonight&margion-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<!--
+<p align="center">
+<br><img src="hello.gif" width="350px"><br><br>
+</p>
+-->
 
 <!--
 **Ckomatsuo/Ckomatsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
