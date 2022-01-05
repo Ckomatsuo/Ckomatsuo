@@ -28,10 +28,10 @@
 - 🔍  [`代理`](https://github.com/Ckomatsuo/proxy) proxy。
 - 📦  [`Clash`](https://github.com/Ckomatsuo/komatsu) 「自用」。
 - ✨  [`资源`](https://github.com/Ckomatsuo/resources) Resources。
-- 📂  [`github-directory-downloader`](http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html) github 特定文件、文件夹下载工具。
-- 🎥️  [`m3u8-downloader`](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) m3u8 在线下载工具。
+- 📂  [`github-directory-downloader`](http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html) github 特定文件、文件夾下載工具。
+- 🎥️  [`m3u8-downloader`](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) m3u8 在線下載工具。
 
-#### 🔰 统计卡牌
+#### 🔰 統計卡牌
 
 <a href="https://ckomatsuo.github.io">
  <img align="left" alt="Ckomatsuo's GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ckomatsuo&show_icons=true&hide_border=true&cache_seconds=1900&theme=vue-dark"/>
@@ -41,7 +41,7 @@
 </a>
 
 <!--
-<img align="right" alt="图片" src="http://upyun.luckly-mjw.cn/Assets/github-profile/120.png" height="180px"/>
+<img align="right" alt="圖片" src="http://upyun.luckly-mjw.cn/Assets/github-profile/120.png" height="180px"/>
 -->
 
  <a href="https://ckomatsuo.github.io">
