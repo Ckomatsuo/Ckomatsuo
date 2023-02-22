@@ -5,7 +5,7 @@
 #### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/> Hi，我是Ckomatsuo
 - 💡  「二八原則」踐行者，「引導型」教育者。
 - 🛠  喜歡搗騰和開發[`效率工具`](https://www.google.co.jp/webhp?ei=LJc3WazrDanb0gKE9Lb4Dg&ved=0EKkuCAYoAQ)。
-- 📚  更熱衷寫重複率低的[`文章`](https://www.google.co.jp/webhp?ei=LJc3WazrDanb0gKE9Lb4Dg&ved=0EKkuCAYoAQ)。
+- 📚  更熱衷寫重複率低的[`文章`](https://ckomatsuo./)。
 - 🔭  發掘生活、工作中的需求，用技術手段去實現，完成技術到價值的轉化。
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
